@@ -1,0 +1,22 @@
+{
+    "id": "starfinder-es-foundry",
+    "title": "Starfinder en Español",
+    "description": "Módulo de Starfinder para traducir al Español.",
+    "authors": [
+      {
+      "name": "Luis Lasbelin"
+      }
+    ],
+    "languages": [
+        {
+            "lang": "es",
+            "name": "Español",
+            "path": "lang/es.json"
+        }
+    ],
+    "version": "0.0.1",
+    "compatibility": {
+      "minimum": "9",
+      "verified": "10"
+    }
+  }
