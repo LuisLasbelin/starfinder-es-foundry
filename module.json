@@ -20,6 +20,6 @@
       "minimum": "9",
       "verified": "10"
     },
-    "manifest": "https://github.com/Luistorch/starfinder-es-foundry/module.json",
-    "readme": "https://github.com/Luistorch/starfinder-es-foundry/readme.md"
+    "manifest": "https://github.com/Luistorch/starfinder-es-foundry",
+    "readme": "https://github.com/Luistorch/starfinder-es-foundry"
 }
