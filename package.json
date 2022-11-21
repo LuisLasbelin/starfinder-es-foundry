@@ -14,12 +14,9 @@
             "path": "lang/es.json"
         }
     ],
-    "system": ["SFRPG"],
     "version": "0.0.1",
     "compatibility": {
       "minimum": "9",
       "verified": "10"
-    },
-    "manifest": "https://github.com/Luistorch/starfinder-es-foundry",
-    "readme": "https://github.com/Luistorch/starfinder-es-foundry"
+    }
 }
